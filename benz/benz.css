@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: none;
+}
+.logo-text a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(242, 243, 245);
+    justify-content: center;
+
+}
+
+
+.navbar-dark .navbar-toggler::after {
+    display: none;
+  }
+ 
+  .search-icon{
+    margin-right: 20px;
+  }
+
+.carousel-caption{
+    display:block;
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 40px;
+    margin-block-end: 24px;
+    margin-block-start: 8px;
+    margin-bottom: 24px;
+    text-align: start;
+
+}
+.carousel-caption h1{
+    color: #fff;
+    
+}
+.card-head{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 26px;
+    font-stretch: 100%;
+    font-weight: 400;
+    line-height: 32px;
+}
+.thrd-head{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 26px;
+    font-stretch: 100%;
+    font-weight: 400;
+    line-height: 32px;
+
+}
+.logo h3{
+    margin-right: 100;
+}
+
